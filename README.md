@@ -2,6 +2,10 @@
 
 A Game Archive 
 
+### Live Website
+
+Check out the live website [here](https://gamesource-22737.web.app/).
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
@@ -30,9 +34,6 @@ npm install
 
 ### Compiles and Hot-Reloads for Development
 ```bash
-### Live Website
-
-Check out the live website [here](https://gamesource-22737.web.app/).
 
 ### Compiles and Hot-Reloads for Development
 ```bash
