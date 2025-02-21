@@ -30,7 +30,14 @@ npm install
 
 ### Compiles and Hot-Reloads for Development
 ```bash
+### Live Website
+
+Check out the live website [here](https://gamesource-22737.web.app/).
+
+### Compiles and Hot-Reloads for Development
+```bash
 npm run serve
+```
 ```
 
 ### Compiles and Minifies for Production
